@@ -4,4 +4,4 @@ This is the repository for your blog! Click *_config.yml* above to get started a
 
 Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 
-[IO_photo](images/logo.png)
+![Fast ai](images/logo.png)

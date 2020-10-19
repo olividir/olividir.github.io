@@ -13,7 +13,7 @@ I am honestly not sure yet. I have been learning Complete Machine Learning and D
 recommended to have a blog to reflect on what I have leared. I am that far into the course now, that it is almost finished. When I finish this course, it will be the
 second course I finish on Udemy. First course was Zero to Mastery Python, by Andrei Neagoie. I liked that course, and to be honest, I found Andrei to be good 
 instructor. Udemy even gave me a certificate for finihing the course.
-![Certificate](images/Python_Certificate.jpg)
+![Python Certificate](images/Python_Certificate.jpg)
 
 I honestly don't know how much this certificate is worth, or even if companies value it at all. The only thing I can say is that I am very happy that I finished the 
 course. 

@@ -7,6 +7,6 @@ Finally, I decided to try out Arco Linux, basically because I was very intereste
 documentation of the process I had to go through in order to get the data ready. Then as I was working with the data, I realized that I basically have the same data 
 on display, and not really relavant. 
 
-I will upload the jupyter file to my github repo and add the link here. 
+I will upload the jupyter file to my github repo and add the [link here](https://github.com/olividir/Small_linear_regression). 
 
 Other than that, I guess I need to find myself another project to play around with. 
